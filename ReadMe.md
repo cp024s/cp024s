@@ -1,0 +1,18 @@
+# 💫 About Me:
+🔭 I'm currently working on RTL Deign (verilog, System Verilog, UVM)<br><br>👬 I'm looking to collaborate with people with same ideas of myself, developing projects on Verilog and VHDL<br><br>🫱🏻‍🫲🏻Im looking to collaborate with people with same ideas of myself, developing projects on Verilog and VHDL<br><br>🌱Im currently Gaining knowledge on Advanced digital design, Static timing analysis, Verilog HDL, FPGA architecture, CMOS fundamentals, Perl scripting, RISC V processor, ASIC verification methods, System verilog, Verification planning, Assertion based verification, Universal verification method and DFT.<br><br>💭 Ask/Talk to me about #digitaldesign #socdesign #verification<br><br>⚡ Fun Fact: In the binary code that underlies all digital computing, the famous mathematician Ada Lovelace's initials (A and L) are represented as the numbers 01000001 and 01001100, respectively. It's like a hidden tribute to the world's first computer programmer right at the heart of every line of code! 🧮💻👩‍💼
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/cp024s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cp024.medium.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cp024s&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
