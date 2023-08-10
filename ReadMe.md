@@ -6,9 +6,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cp024s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cp024.medium.com) 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cp024s&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cp024s&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
