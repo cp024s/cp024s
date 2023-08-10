@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cp024s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cp024.medium.com) 
-# 📊 GitHub Stats:
+# 📊 Chandra Prakash's GitHub Stats:
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
