@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cp024s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cp024.medium.com) 
 # 📊 Chandra Prakash's GitHub Stats:
-<hr>
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </div>
@@ -23,7 +23,7 @@
 <br/>
 
 ### ✍️ Random Dev Quote
-<hr>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
