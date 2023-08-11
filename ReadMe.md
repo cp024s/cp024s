@@ -34,4 +34,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
  
 # Check out my recent Repo
+<div align="center">
 [100 Days of RTL](https://github.com/cp024s/100-days-of-RTL)
+</div>
