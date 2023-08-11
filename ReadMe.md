@@ -35,5 +35,5 @@
  
 # Check out my recent Repo
 <div align="center">
-[100 Days of RTL](https://github.com/cp024s/100-days-of-RTL)
+<[100 Days of RTL](https://github.com/cp024s/100-days-of-RTL)>
 </div>
