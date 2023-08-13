@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤵🏻‍♂️ About Me:
 🔭 I'm currently working on RTL Deign (verilog, System Verilog, UVM)<br>
 
 👬 I'm looking to collaborate with people with same ideas of myself, developing projects on Verilog and VHDL<br>
