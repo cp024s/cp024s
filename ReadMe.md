@@ -10,13 +10,13 @@
 ⚡Fun Fact: The name "Verilog" is a portmanteau of the words "verification" and "logic". This is because Verilog is a hardware description language (HDL) that is used to describe digital systems at the register transfer level (RTL). RTL is the level of abstraction where data is transferred between registers, and Verilog is used to describe the logic that controls this data transfer!  🧮💻👩‍💼 <br>
 
 
-# Recent Repo <br>
+# 📥 Recent Repo 
 ### [100 Days of RTL](https://github.com/cp024s/100-days-of-RTL) <br>
 **Designing:** Creating diverse digital hardware modules, ranging from simple components to more complex systems. <br>
 **Coding:** Implementing RTL designs using languages like Verilog and VHDL, refining my coding skills along the way. <br>
 **Simulating:** Verifying and testing the designs using simulation tools to ensure their correctness and functionality. <br>
-**Documenting:** Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
-
+**Documenting:** Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community.
+### (currently working)
 
 # 💻 Academic project Repos 
 ### [Dowsiness Detection System](https://github.com/cp024s/DDS) <br>
