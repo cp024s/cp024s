@@ -1,5 +1,5 @@
 <h1> Welcome to Chandra Prakash's GitHub profile </h1>
-He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an embedded IoT project developer, and a contributor. His area of interest lies in Computer architecture and VLSI design & Verification. Currently, he is a final-year student at PSG Institute of technology and applied research, Coimbatore. Currently he is also a trainee at Maven Silicon, Bengaluru.
+He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an embedded IoT project developer, and a contributor. His area of interest lies in Computer architecture and VLSI design & Verification. Currently, he is a final-year student at PSG Institute of Technology and Applied Research, Coimbatore. Currently, he is also a trainee at Maven Silicon, Bengaluru. He is also searching for RTL design, SoC design, Verification Engineer roles
 
 # 🤵🏻‍♂️ About Me
 🔭 I'm currently working on RTL Deign (verilog, System Verilog, UVM)<br>
