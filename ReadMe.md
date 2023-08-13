@@ -3,7 +3,7 @@
 
 🌱 Im currently Gaining knowledge on Advanced digital design, Static timing analysis, Verilog HDL, FPGA architecture, CMOS fundamentals, Perl scripting, RISC V processor, ASIC verification methods, System verilog, Verification planning, Assertion based verification, Universal verification method and DFT. <br><br>
 
-💭 Ask/Talk to me about #digitaldesign #socdesign #verification <br><br>
+💭 Ask/Talk to me about #RTLdesign #digitaldesign #socdesign #verification <br><br>
 
 ⚡Fun Fact: The name "Verilog" is a portmanteau of the words "verification" and "logic." This is because Verilog is a hardware description language (HDL) that is used to describe digital systems at the register transfer level (RTL). RTL is the level of abstraction where data is transferred between registers, and Verilog is used to describe the logic that controls this data transfer!  🧮💻👩‍💼
 
