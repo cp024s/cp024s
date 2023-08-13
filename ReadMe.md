@@ -8,7 +8,8 @@
 ⚡Fun Fact: The name "Verilog" is a portmanteau of the words "verification" and "logic." This is because Verilog is a hardware description language (HDL) that is used to describe digital systems at the register transfer level (RTL). RTL is the level of abstraction where data is transferred between registers, and Verilog is used to describe the logic that controls this data transfer!  🧮💻👩‍💼
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cp024s) <div> [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cp024.medium.com) </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cp024s) <br>
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cp024.medium.com) 
 <br/>
 
 # 📊 Chandra Prakash's GitHub Stats:
