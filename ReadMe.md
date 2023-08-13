@@ -18,7 +18,7 @@ Simulating: Verifying and testing the designs using simulation tools to ensure t
 Documenting: Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
 
 
-# 💻 My Academic project Repos 
+# 💻 Academic project Repos 
 ### [Dowsiness Detection System](https://github.com/cp024s/DDS) <br>
 The "Drowsiness Detection System" project uses Python to analyze a person's facial features through a camera feed, detecting signs of drowsiness and alerting them in real-time to prevent potential accidents. This system employs computer vision techniques and machine learning algorithms to monitor eye closure patterns and trigger alerts when fatigue is detected. <br>
 Tech Stack used : Python, Node RED <br>
@@ -42,15 +42,21 @@ Software used: Arduino IDE,Processing. <br>
 Hardware used: AtMega328p, HC SR-04, Servo motor. <br>
 
 # ⚒ Languages and Tools
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.perl.com" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/perl.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="arduino" width="40" height="40"/> </a>
+### Languages <br>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C language" width="40" height="40"/> </a>
+<a href="https://www.perl.com" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/perl.svg" alt="Perl" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" width="40" height="40"/> </a>
 
+### Operating System
+<a href="https://www.linux.org" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="Linux" width="40" height="40"/> </a>
+
+### Tools <br>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/products/matlab.html/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/matlab.svg" alt="arduino" width="40" height="40"/> </a>
 
 # 🌐 Socials:
-<a href="https://linkedin.com/in/cp024s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriniketh-jayasendil" height="30" width="40" /></a>
-<a href="http://twitter.com/srini047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srini047" height="30" width="40" /></a> 
-<a href="https://leetcode.com/chandraprakash024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srini047" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cp024s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chandra Prakash" height="30" width="40" /></a>
+<a href="https://leetcode.com/chandraprakash024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Chandra Prakash" height="30" width="40" /></a>
 
 
 # 📊 Stats:
