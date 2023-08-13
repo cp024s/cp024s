@@ -39,11 +39,15 @@ Documenting: Sharing insights, challenges, and lessons learned daily, fostering 
 
 
 # My Academic project Repos
-### [Dowsiness Detection System (Python, Node Red)](https://github.com/cp024s/DDS) <br>
-The "Drowsiness Detection System" project uses Python to analyze a person's facial features through a camera feed, detecting signs of drowsiness and alerting them in real-time to prevent potential accidents. This system employs computer vision techniques and machine learning algorithms to monitor eye closure patterns and trigger alerts when fatigue is detected.
-<br>
+### [Dowsiness Detection System)](https://github.com/cp024s/DDS) <br>
+The "Drowsiness Detection System" project uses Python to analyze a person's facial features through a camera feed, detecting signs of drowsiness and alerting them in real-time to prevent potential accidents. This system employs computer vision techniques and machine learning algorithms to monitor eye closure patterns and trigger alerts when fatigue is detected. <br>
+Tech Stack used : Python, Node RED <br>
 
-### [Smart Pesticide Sprayer (Arduino and Other Hardware components)](https://github.com/cp024s/Smart-pesiticide-sprayer) <br><br>
+### [Smart Pesticide Sprayer (Arduino and Other Hardware components)](https://github.com/cp024s/Smart-pesiticide-sprayer) <br>
+Developed a prototype model to minimize the labour requirements and to increase crop productivity by automatically spraying herbicides throughout the field. <br>
+Software used: Blynk, Arduino IDE <br>
+Hardware used: ESP8266, ESP32-CAM, L298N motor driver, various sensors. <br>
+
 [Standalone Fire extinguisher (Arduino and Other Hardware components)](https://github.com/cp024s/Standalone-fire-Extinguisher) <br><br>
 [RFID Attendance management System (Arduino and Other Hardware components)](https://github.com/cp024s/RFID-attendance-management) <br><br>
 
