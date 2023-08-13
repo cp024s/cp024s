@@ -9,7 +9,7 @@
 
 # 🌐 Socials:
 <a href="https://linkedin.com/in/cp024s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriniketh-jayasendil" height="30" width="40" /></a> &nbsp
-<a href="http://twitter.com/srini047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srini047" height="30" width="40" /></a> &nbsp
+<a href="http://twitter.com/srini047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srini047" height="30" width="40" /></a> &ensp
 <a href="https://leetcode.com/chandraprakash024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srini047" height="30" width="40" /></a>
 
 
