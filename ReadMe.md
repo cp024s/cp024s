@@ -8,8 +8,10 @@
 ⚡Fun Fact: The name "Verilog" is a portmanteau of the words "verification" and "logic." This is because Verilog is a hardware description language (HDL) that is used to describe digital systems at the register transfer level (RTL). RTL is the level of abstraction where data is transferred between registers, and Verilog is used to describe the logic that controls this data transfer!  🧮💻👩‍💼
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cp024s) <br>
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cp024.medium.com) <br>
+<a href="https://linkedin.com/in/cp024s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriniketh-jayasendil" height="30" width="40" /></a>
+<a href="http://twitter.com/srini047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srini047" height="30" width="40" /></a>
+<a href="https://leetcode.com/chandraprakash024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srini047" height="30" width="40" /></a>
+
 
 # 📊 Stats:
 
