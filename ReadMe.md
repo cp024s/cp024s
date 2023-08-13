@@ -12,10 +12,10 @@
 
 # Recent Repo <br>
 ### [100 Days of RTL](https://github.com/cp024s/100-days-of-RTL) <br>
-Designing: Creating diverse digital hardware modules, ranging from simple components to more complex systems. <br>
-Coding: Implementing RTL designs using languages like Verilog and VHDL, refining my coding skills along the way. <br>
-Simulating: Verifying and testing the designs using simulation tools to ensure their correctness and functionality. <br>
-Documenting: Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
+**Designing:** Creating diverse digital hardware modules, ranging from simple components to more complex systems. <br>
+**Coding:** Implementing RTL designs using languages like Verilog and VHDL, refining my coding skills along the way. <br>
+**Simulating:** Verifying and testing the designs using simulation tools to ensure their correctness and functionality. <br>
+**Documenting:** Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
 
 
 # 💻 Academic project Repos 
@@ -37,7 +37,7 @@ Software used: Arduino IDE. <br>
 Hardware used: AtMega328p, MRFC522 RF receiver, LCD i2c display, SD card module, RTC module. <br>
 
 ### [Radar system using Arduino and Processing](https://github.com/cp024s/Radar-Arduino)
-Develop a cutting-edge radar system utilizing Arduino for hardware integration and Processing for real-time data visualization. <br>
+Developed a cutting-edge radar system utilizing Arduino for hardware integration and Processing for real-time data visualization. <br>
 Software used: Arduino IDE,Processing. <br>
 Hardware used: AtMega328p, HC SR-04, Servo motor. <br>
 
