@@ -31,8 +31,13 @@ A 3d printed standalone fire extinguisher which senses fire and try to extinguis
 
 ### [RFID Attendance management System](https://github.com/cp024s/RFID-attendance-management)
 Designed a real time attendance management system by employing an RF system operated in the 433 MHz frequency range. As a result the attendance is stored in a memory device along with the Time stamp. <br>
-Software used: Arduino IDE <br>
+Software used: Arduino IDE. <br>
 Hardware used: AtMega328p, MRFC522 RF receiver, LCD i2c display, SD card module, RTC module. <br>
+
+### [Radar system using Arduino and Processing](https://github.com/cp024s/Radar-Arduino)
+Develop a cutting-edge radar system utilizing Arduino for hardware integration and Processing for real-time data visualization. <br>
+Software used: Arduino IDE,Processing. <br>
+Hardware used: AtMega328p, HC SR-04, Servo motor. <br>
 
 
 # 🌐 Socials:
