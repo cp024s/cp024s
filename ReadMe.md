@@ -17,7 +17,7 @@ Documenting: Sharing insights, challenges, and lessons learned daily, fostering 
 
 
 # My Academic project Repos 
-### [Dowsiness Detection System)](https://github.com/cp024s/DDS) <br>
+### [Dowsiness Detection System](https://github.com/cp024s/DDS) <br>
 The "Drowsiness Detection System" project uses Python to analyze a person's facial features through a camera feed, detecting signs of drowsiness and alerting them in real-time to prevent potential accidents. This system employs computer vision techniques and machine learning algorithms to monitor eye closure patterns and trigger alerts when fatigue is detected. <br>
 Tech Stack used : Python, Node RED <br>
 
