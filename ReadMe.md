@@ -43,4 +43,3 @@
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
  <br> <br>
-![Chandra Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cp024s&show_icons=true&theme=radical)
