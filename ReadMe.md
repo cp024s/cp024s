@@ -18,7 +18,7 @@ Simulating: Verifying and testing the designs using simulation tools to ensure t
 Documenting: Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
 
 
-# My Academic project Repos 
+# 💻 My Academic project Repos 
 ### [Dowsiness Detection System](https://github.com/cp024s/DDS) <br>
 The "Drowsiness Detection System" project uses Python to analyze a person's facial features through a camera feed, detecting signs of drowsiness and alerting them in real-time to prevent potential accidents. This system employs computer vision techniques and machine learning algorithms to monitor eye closure patterns and trigger alerts when fatigue is detected. <br>
 Tech Stack used : Python, Node RED <br>
@@ -41,6 +41,11 @@ Develop a cutting-edge radar system utilizing Arduino for hardware integration a
 Software used: Arduino IDE,Processing. <br>
 Hardware used: AtMega328p, HC SR-04, Servo motor. <br>
 
+# ⚒ Languages and Tools
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.perl.com" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/perl.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="arduino" width="40" height="40"/> </a>
+
 
 # 🌐 Socials:
 <a href="https://linkedin.com/in/cp024s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriniketh-jayasendil" height="30" width="40" /></a>
@@ -49,7 +54,6 @@ Hardware used: AtMega328p, HC SR-04, Servo motor. <br>
 
 
 # 📊 Stats:
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cp024s&show_icons=true&theme=radical">
 </div>
@@ -64,11 +68,10 @@ Hardware used: AtMega328p, HC SR-04, Servo motor. <br>
 <br/>
 
 
-
 # ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
- <br> <br>
+<br>
