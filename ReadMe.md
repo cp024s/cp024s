@@ -28,13 +28,21 @@
 </div>
 <br/>
 
+
+
 # Check out my recent Repo <br>
-[100 Days of RTL](https://github.com/cp024s/100-days-of-RTL)
-<br>
+[100 Days of RTL](https://github.com/cp024s/100-days-of-RTL) <br>
+Designing: Creating diverse digital hardware modules, ranging from simple components to more complex systems. <br>
+Coding: Implementing RTL designs using languages like Verilog and VHDL, refining my coding skills along the way. <br>
+Simulating: Verifying and testing the designs using simulation tools to ensure their correctness and functionality. <br>
+Documenting: Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
+
+
 # My Academic project Repos
 ### [Dowsiness Detection System (Python, Node Red)](https://github.com/cp024s/DDS) <br>
 The "Drowsiness Detection System" project uses Python to analyze a person's facial features through a camera feed, detecting signs of drowsiness and alerting them in real-time to prevent potential accidents. This system employs computer vision techniques and machine learning algorithms to monitor eye closure patterns and trigger alerts when fatigue is detected.
-<br><br>
+<br>
+
 ### [Smart Pesticide Sprayer (Arduino and Other Hardware components)](https://github.com/cp024s/Smart-pesiticide-sprayer) <br><br>
 [Standalone Fire extinguisher (Arduino and Other Hardware components)](https://github.com/cp024s/Standalone-fire-Extinguisher) <br><br>
 [RFID Attendance management System (Arduino and Other Hardware components)](https://github.com/cp024s/RFID-attendance-management) <br><br>
