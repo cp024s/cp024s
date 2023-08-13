@@ -27,13 +27,6 @@
 </div>
 <br/>
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
- 
 # Check out my recent Repo
 [100 Days of RTL](https://github.com/cp024s/100-days-of-RTL)
 <br>
@@ -42,3 +35,11 @@
 [Smart Pesticide Sprayer (Arduino and Other Hardware components)](https://github.com/cp024s/Smart-pesiticide-sprayer) <br>
 [Standalone Fire extinguisher (Arduino and Other Hardware components)](https://github.com/cp024s/Standalone-fire-Extinguisher) <br>
 [RFID Attendance management System (Arduino and Other Hardware components)](https://github.com/cp024s/RFID-attendance-management) <br>
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ <br>
