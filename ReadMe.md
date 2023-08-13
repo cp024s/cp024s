@@ -37,6 +37,8 @@
 # Check out my recent Repo
 [100 Days of RTL](https://github.com/cp024s/100-days-of-RTL)
 <br>
-# My project Repos
-[Dowsiness Detection System](https://github.com/cp024s/DDS) 
-<br>
+# My Academic project Repos
+[Dowsiness Detection System](https://github.com/cp024s/DDS) <br>
+[Smart Pesticide Sprayer](https://github.com/cp024s/Smart-pesiticide-sprayer) <br>
+[Standalone Fire extinguisher](https://github.com/cp024s/Standalone-fire-Extinguisher) <br>
+[RFID Attendance management System](https://github.com/cp024s/RFID-attendance-management) <br>
