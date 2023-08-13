@@ -15,7 +15,7 @@
 # 📊 Chandra Prakash's GitHub Stats:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=cp024s&show_icons=true&theme=radical">
 </div>
 <br/>
 <div align="center">
