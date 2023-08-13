@@ -15,8 +15,8 @@
 **Designing:** Creating diverse digital hardware modules, ranging from simple components to more complex systems. <br>
 **Coding:** Implementing RTL designs using languages like Verilog and VHDL, refining my coding skills along the way. <br>
 **Simulating:** Verifying and testing the designs using simulation tools to ensure their correctness and functionality. <br>
-**Documenting:** Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community.
-### (currently working)
+**Documenting:** Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
+(currently working)
 
 # 💻 Academic project Repos 
 ### [Dowsiness Detection System](https://github.com/cp024s/DDS) <br>
