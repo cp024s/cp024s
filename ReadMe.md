@@ -83,8 +83,8 @@ Hardware used: AtMega328p, HC SR-04, Servo motor. <br>
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cp024s&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="cp024s" /> </p>
-
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cp024s&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="cp024s" /> </p>
