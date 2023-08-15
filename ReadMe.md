@@ -80,6 +80,6 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br>
+<br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cp024s&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="cp024s" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cp024s&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="cp024s" /> </p>
