@@ -25,7 +25,7 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 - Coding: Implementing RTL designs using languages like Verilog and VHDL, refining my coding skills along the way. <br>
 - Simulating: Verifying and testing the designs using simulation tools to ensure their correctness and functionality. <br>
 - Documenting: Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
-(currently working)
+***(currently working)***
 
 
 # 💻 [Academic project Repos](https://github.com/cp024s/cp024s/blob/main/Academic%20Repos.md)
