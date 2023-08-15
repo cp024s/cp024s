@@ -24,15 +24,15 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 
 # 💻 [Academic project Repos](https://github.com/cp024s/cp024s/blob/main/Academic%20Repos.md)
 
-### Dowsiness Detection System
+### • Dowsiness Detection System
 
-### Smart Pesticide Sprayer
+### • Smart Pesticide Sprayer
 
-### Standalone Fire extinguisher
+### • Standalone Fire extinguisher
 
-### RFID Attendance management System
+### • RFID Attendance management System
 
-### Radar system using Arduino and Processing
+### • Radar system using Arduino and Processing
 </br>
 
 # ⚒ Languages and Tools
