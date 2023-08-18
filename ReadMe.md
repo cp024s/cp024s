@@ -17,8 +17,8 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 
 ✉️ How to reach me **chandraprakashs2003@gmail.com** <br>
 
-⚡Fun Fact: The name "Verilog" is a portmanteau of the words "verification" and "logic". This is because Verilog is a hardware description language (HDL) that is used to describe digital systems at the register transfer level (RTL). RTL is the level of abstraction where data is transferred between registers, and Verilog is used to describe the logic that controls this data transfer!  🧮💻👩‍💼 <br>
-<br>
+⚡Fun Fact: The name "Verilog" is a portmanteau of the words "verification" and "logic". This is because Verilog is a hardware description language (HDL) that is used to describe digital systems at the register transfer level (RTL). RTL is the level of abstraction where data is transferred between registers, and Verilog is used to describe the logic that controls this data transfer!  🧮💻👩‍💼 
+<br> <br>
 
 
 # Tools and Skills
@@ -26,8 +26,8 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 **HDLs:** Verilog, VHDL, System Verilog <br>
 **Tools:** Xilinx Vivado, Siemens ModelSim, QuestaSim, Quartus <br>
 **Placement & Routing :** Cadence Virtuoso <br>
-**Verification:** UVM, SystemVerilog Assertions, Formal Verification <br>
-<br>
+**Verification:** UVM, SystemVerilog Assertions, Formal Verification 
+<br> <br>
 
 # 📥 Recent Repo 
 ### [100 Days of RTL](https://github.com/cp024s/100-days-of-RTL) <br>
@@ -36,6 +36,7 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 - Simulating: Verifying and testing the designs using simulation tools to ensure their correctness and functionality. <br>
 - Documenting: Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
   **(currently working)**
+<br>
 
 
 # 💻 [Academic project Repos](https://github.com/cp024s/cp024s/blob/main/Academic%20Repos.md)
