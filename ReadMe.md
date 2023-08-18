@@ -24,10 +24,9 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 # Tools and Skills
 
 **HDLs:** Verilog, VHDL <br>
-**Tools:** Vivado, Quartus, ModelSim <br>
+**Tools:** Xilinx Vivado, Siemens ModelSim, Quartus, Cadence Virtuoso <br>
 **Verification:** UVM, SystemVerilog Assertions <br>
 <br>
-
 
 # 📥 Recent Repo 
 ### [100 Days of RTL](https://github.com/cp024s/100-days-of-RTL) <br>
