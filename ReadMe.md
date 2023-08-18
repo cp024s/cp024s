@@ -23,9 +23,10 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 
 # Tools and Skills
 
-**HDLs:** Verilog, VHDL <br>
-**Tools:** Xilinx Vivado, Siemens ModelSim, Quartus, Cadence Virtuoso <br>
-**Verification:** UVM, SystemVerilog Assertions <br>
+**HDLs:** Verilog, VHDL, System Verilog <br>
+**Tools:** Xilinx Vivado, Siemens ModelSim, QuestaSim, Quartus <br>
+**Placement & Routing :** Cadence Virtuoso <br>
+**Verification:** UVM, SystemVerilog Assertions, Formal Verification <br>
 <br>
 
 # 📥 Recent Repo 
@@ -90,5 +91,9 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br><br>
+
+---
+<p align="center"> Thank you for visiting my GitHub profile. Together, let's push the boundaries of digital design and create innovative solutions that shape the future of technology. </p>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cp024s&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="cp024s" /> </p>
