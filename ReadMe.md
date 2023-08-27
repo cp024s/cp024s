@@ -38,7 +38,6 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 - Simulating: Verifying and testing the designs using simulation tools to ensure their correctness and functionality. <br>
 - Documenting: Sharing insights, challenges, and lessons learned daily, fostering a supportive learning community. <br>
   **(currently working)**
-<br>
 
 ### [Perl - A Zero to master](https://github.com/cp024s/Perl-A-Zero-to-master)
 - Master Perl in 50 Days: A Structured Learning Program 🚀
