@@ -23,8 +23,9 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 
 # Tools and Skills
 
-**HDLs:** Verilog, VHDL, System Verilog <br>
-**Tools:** Xilinx Vivado, Siemens ModelSim, QuestaSim, Quartus <br>
+**HDLs:** Verilog, VHDL <br>
+***HVL:*** System Verilog <br>
+**Tools:** Xilinx Vivado, Mentor Graphics ModelSim, Siemens QuestaSim, Intel Quartus <br>
 **Placement & Routing :** Cadence Virtuoso <br>
 **Verification:** UVM, SystemVerilog Assertions, Formal Verification 
 <br> <br>
