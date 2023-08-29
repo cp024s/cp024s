@@ -73,7 +73,6 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 
 # 🌐 Socials:
 <a href="https://linkedin.com/in/cp024s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chandra Prakash" height="30" width="40" /></a>
-<a href="https://leetcode.com/chandraprakash024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Chandra Prakash" height="30" width="40" /></a>
 
 
 # 📊 Stats:
