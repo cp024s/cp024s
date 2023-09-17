@@ -100,5 +100,4 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 ---
 <p align="center"> Thank you for visiting my GitHub profile. Together, let's push the boundaries of digital design and create innovative solutions that shape the future of technology. </p>
 <br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cp024s&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="cp024s" /> </p>
