@@ -26,7 +26,7 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 **Languages:** C language, Python, Perl <br>
 **HDLs:** Verilog, VHDL <br>
 **HVL:** System Verilog <br>
-**Tools:** Xilinx Vivado, Mentor Graphics ModelSim, Siemens QuestaSim, Icarus, Intel Quartus <br>
+**Tools:** Xilinx Vivado, Mentor Graphics ModelSim, Siemens QuestaSim, Intel Quartus <br>
 **Placement & Routing :** Cadence Virtuoso <br>
 **Verification:** UVM, SystemVerilog Assertions, Formal Verification 
 <br> <br>
