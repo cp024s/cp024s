@@ -32,7 +32,7 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 <br> <br>
 
 # 📥 Recent Repo 
-### [100 Days of RTL](https://github.com/cp024s/100-days-of-RTL) <br>
+### [100 Days of RTL](https://github.com/cp024s/100-days-of-RTL)
 - Designing: Creating diverse digital hardware modules, ranging from simple components to more complex systems. <br>
 - Coding: Implementing RTL designs using languages like Verilog and VHDL, refining my coding skills along the way. <br>
 - Simulating: Verifying and testing the designs using simulation tools to ensure their correctness and functionality. <br>
