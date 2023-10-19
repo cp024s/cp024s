@@ -45,6 +45,16 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 - Ready to become a Perl expert? This 50-day program is your path to mastering Perl programming, from the basics to advanced topics. Whether you're a newbie or experienced developer, follow our daily plan, complete exercises, and work on real projects to build your Perl skills. Join us on this coding journey! <br>
           #perl #programming #learnperl
 
+# Protocol verification Repos
+
+### • [APB protocol](https://github.com/cp024s/APB-protocol-verification)
+### • [AXI protocol](https://github.com/cp024s/AXI-protocol)
+### • [I2C protocol](https://github.com/cp024s/I2C)
+### • [I2C protocol](https://github.com/cp024s/I2C)
+### • [RS 232](https://github.com/cp024s/RS-232)
+### • [UART](https://github.com/cp024s/UART)
+
+
 # 💻 [Academic project Repos](https://github.com/cp024s/cp024s/blob/main/Academic%20Repos.md)
 
 ### • Dowsiness Detection System
