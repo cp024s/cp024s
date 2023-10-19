@@ -45,68 +45,12 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 - Ready to become a Perl expert? This 50-day program is your path to mastering Perl programming, from the basics to advanced topics. Whether you're a newbie or experienced developer, follow our daily plan, complete exercises, and work on real projects to build your Perl skills. Join us on this coding journey! <br>
           #perl #programming #learnperl
 
-# Protocol verification Repos
-
-### • [APB protocol](https://github.com/cp024s/APB-protocol-verification)
-### • [AXI protocol](https://github.com/cp024s/AXI-protocol)
-### • [I2C protocol](https://github.com/cp024s/I2C)
-### • [I2C protocol](https://github.com/cp024s/I2C)
-### • [RS 232](https://github.com/cp024s/RS-232)
-### • [UART](https://github.com/cp024s/UART)
-
-
-# 💻 [Academic project Repos](https://github.com/cp024s/cp024s/blob/main/Academic%20Repos.md)
-
-### • Dowsiness Detection System
-
-### • Smart Pesticide Sprayer
-
-### • Standalone Fire extinguisher
-
-### • RFID Attendance management System
-
-### • Radar system using Arduino and Processing
-</br>
-
-# ⚒ Languages and Tools
-### Languages <br>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C language" width="40" height="40"/> </a>
-<a href="https://www.perl.com" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/perl.svg" alt="Perl" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" width="40" height="40"/> </a>
-
-### Operating System
-<a href="https://www.linux.org" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="Linux" width="40" height="40"/> </a>
-
-### Tools <br>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/products/matlab.html/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/matlab.svg" alt="arduino" width="40" height="40"/> </a>
-
-
-# 🌐 Socials:
-<a href="https://linkedin.com/in/cp024s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chandra Prakash" height="30" width="40" /></a>
-
-
 # 📊 Stats:
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cp024s&show_icons=true&theme=radical">
-</div>
-<br/>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cp024s&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-</div>
-<br/>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cp024s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 <br/>
 
-
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cp024s&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br><br>
 
 ---
 <p align="center"> Thank you for visiting my GitHub profile. Together, let's push the boundaries of digital design and create innovative solutions that shape the future of technology. </p>
