@@ -29,7 +29,7 @@ He is an Engineer, a lifelong learner, a passionate RTL design enthusiast, an em
 **Tools :** Xilinx Vivado, Mentor Graphics ModelSim, Siemens QuestaSim, Intel Quartus <br>
 **Placement & Routing :** Cadence Virtuoso <br>
 **Verification :** UVM, SystemVerilog Assertions, Formal Verification <br>
-**Protocols :** AXI, APB, AMBA, I2C, UART, RS232, SPI
+**Protocols :**  I2C, UART, RS232, SPI, AXI, APB, AMBA, DDR, PCIe
 <br> <br>
 
 # 📥 Recent Repo 
