@@ -1,6 +1,6 @@
 # PROJECTS
 
-## MIPS processor verification using UVM
+## MIPS processor verification using UVM [ [link] ](https://github.com/cp024s/MIPS-Processor-Verification-UVM)
 
 1. **Objective:** Verify the MIPS processor design using Universal Verification Methodology (UVM).
 
@@ -13,7 +13,7 @@
 5. **Outcome:** Enhance the reliability and robustness of the MIPS processor, ensuring seamless integration into diverse computing systems.
 
 
-## 5 stage pipelined architecture in RISC (on progress)
+## 5 stage pipelined architecture in RISC (on progress) [ [link] ](https://github.com/cp024s/5-Stage-Pipelined-Architecture)
 
 1. **Objective:** Design and implement a 5-Stage Pipelined Architecture for a processor, aiming to enhance instruction throughput and overall system performance.
 
@@ -27,7 +27,7 @@
 
 6. **Performance Analysis:** Evaluate the overall performance of the 5-Stage Pipelined Architecture, considering factors such as throughput, latency, and resource utilization. Optimize the design to achieve enhanced computational efficiency in diverse computing scenarios.
 
-## 1x3 Router design
+## 1x3 Router design [ [link] ](https://github.com/cp024s/1x3-Router)
 
 1. **Router Architecture and Design:** Develop a concise and efficient 1x3 router architecture using Verilog, outlining the structure of input and output ports and the logic for data packet routing.
 
@@ -40,23 +40,23 @@
 
 ## Protocol Verification projects 
 
-1. **AXI Stream:**
+1. **AXI Stream:** [ [link] ](https://github.com/cp024s/AXI-stream) <br>
    Conducting verification experiments for AXI Stream communication protocol, validating its compliance with industry standards. The experiments include rigorous testing of data streaming, handshaking, and protocol-specific features to ensure reliable and efficient communication within digital systems.
 
 2. **PCIe:**
    Verifying the PCIe communication protocol through systematic experiments, assessing its functional correctness and performance characteristics. The experiments focus on link initialization, data transfer, and protocol-specific functionalities, ensuring PCIe compliance and optimizing its performance in diverse computing environments.
 
-3. **UART:**
+3. **UART:** [ [link] ](https://github.com/cp024s/AXI-stream) <br>
    Performing verification experiments for UART communication protocol, ensuring accurate and reliable serial communication. The experiments cover baud rate settings, start/stop bit handling, and error detection mechanisms, validating the protocol's robustness and compatibility for asynchronous data transmission.
 
 4. **AMBA:**
    Conducting comprehensive verification experiments for the AMBA communication protocol, encompassing AHB and APB bus architectures. The experiments focus on verifying proper data transfer, bus arbitration, and protocol compliance, ensuring seamless integration and communication between AMBA-compliant components.
 
-5. **RS 232:**
+5. **RS 232:** [ [link] ](https://github.com/cp024s/RS-232) <br>
    Verifying the RS 232 communication protocol through targeted experiments, assessing its ability to facilitate serial communication. The experiments cover voltage levels, baud rate configurations, and error handling mechanisms, ensuring the protocol's reliability and suitability for asynchronous serial communication applications.
 
 
-## Single Cycle RISC Implementation
+## Single Cycle RISC Implementation [ [link] ](https://github.com/cp024s/Single-cycle-RISC)
 
 1. **Objective:** Implement a Single-Cycle RISC processor adhering to RISC architecture principles.
   
