@@ -13,7 +13,7 @@
 5. **Outcome:** Enhance the reliability and robustness of the MIPS processor, ensuring seamless integration into diverse computing systems.
 
 
-## 5 stage pipelined architecture in RISC
+## 5 stage pipelined architecture in RISC (on progress)
 
 1. **Objective:** Design and implement a 5-Stage Pipelined Architecture for a processor, aiming to enhance instruction throughput and overall system performance.
 
