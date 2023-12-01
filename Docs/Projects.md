@@ -42,17 +42,23 @@
 
 1. **AXI Stream:** [ [link] ](https://github.com/cp024s/AXI-stream) <br>
    Conducting verification experiments for AXI Stream communication protocol, validating its compliance with industry standards. The experiments include rigorous testing of data streaming, handshaking, and protocol-specific features to ensure reliable and efficient communication within digital systems.
-
-2. **PCIe:**
+   
+3. **AHB to APB BRIDGE:** [ [link] ](https://github.com/cp024s/AHB-APB-bridge) <br>
+   The AHB to APB bridge is a crucial component in embedded systems, seamlessly connecting the high-performance Advanced High-Performance Bus (AHB) with the more peripheral-oriented Advanced Peripheral Bus (APB).
+   Serving as a translator, it efficiently manages data transfer between these buses, optimizing communication between core processors and peripheral devices.
+   This bridge ensures a smooth and synchronized flow of data, enhancing overall system performance and allowing for streamlined integration of diverse hardware components.
+   Its role is pivotal in maintaining a balanced and efficient data exchange within complex embedded systems.
+   
+5. **PCIe:**
    Verifying the PCIe communication protocol through systematic experiments, assessing its functional correctness and performance characteristics. The experiments focus on link initialization, data transfer, and protocol-specific functionalities, ensuring PCIe compliance and optimizing its performance in diverse computing environments.
 
-3. **UART:** [ [link] ](https://github.com/cp024s/AXI-stream) <br>
+6. **UART:** [ [link] ](https://github.com/cp024s/AXI-stream) <br>
    Performing verification experiments for UART communication protocol, ensuring accurate and reliable serial communication. The experiments cover baud rate settings, start/stop bit handling, and error detection mechanisms, validating the protocol's robustness and compatibility for asynchronous data transmission.
 
-4. **AMBA:**
+7. **AMBA:**
    Conducting comprehensive verification experiments for the AMBA communication protocol, encompassing AHB and APB bus architectures. The experiments focus on verifying proper data transfer, bus arbitration, and protocol compliance, ensuring seamless integration and communication between AMBA-compliant components.
 
-5. **RS 232:** [ [link] ](https://github.com/cp024s/RS-232) <br>
+8. **RS 232:** [ [link] ](https://github.com/cp024s/RS-232) <br>
    Verifying the RS 232 communication protocol through targeted experiments, assessing its ability to facilitate serial communication. The experiments cover voltage levels, baud rate configurations, and error handling mechanisms, ensuring the protocol's reliability and suitability for asynchronous serial communication applications.
 
 
