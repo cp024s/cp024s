@@ -3,17 +3,11 @@
 
 ## Design of 6T RAM cell using SKY130 PDK [ [link] ](https://github.com/cp024s/6T-RAM-cell)
 
-**Objective:** Validate the performance and reliability of a 6T RAM cell design using Universal Verification Methodology (UVM).
+1. **Objective:** Implement the physical design of a 6T RAM cell using the SkyWater Sky130 Process Design Kit (PDK).
 
-**Objective:** Validate the performance and reliability of a 6T RAM cell design using Universal Verification Methodology (UVM).
+2. **Methodology:** Utilize the Sky130 PDK to develop the layout and physical implementation of the 6T RAM cell, adhering to the technology and manufacturing guidelines provided.
 
-**Methodology:** Employ UVM to establish a standardized verification environment, facilitating thorough testing of the 6T RAM cell design under various conditions.
-
-**Components:** Develop UVM testbenches with a focus on functional coverage and constrained-random stimulus generation to comprehensively assess the 6T RAM cell behavior.
-
-**Validation:** Conduct extensive simulations to verify the 6T RAM cell's functionality, access times, and stability, ensuring adherence to design specifications and optimal performance.
-
-**Outcome:** Enhance the reliability and efficiency of the 6T RAM cell, ensuring its seamless integration into diverse computing systems and applications, while meeting performance expectations.
+3. **Outcome:** Deliver a physically designed 6T RAM cell layout that meets Sky130 PDK specifications, ensuring manufacturability, reliability, and optimal performance in semiconductor manufacturing processes.
 
 
 ## MIPS processor verification using UVM [ [link] ](https://github.com/cp024s/MIPS-Processor-Verification-UVM)
